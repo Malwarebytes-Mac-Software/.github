@@ -1,4 +1,4 @@
-# Malwarebytes Premium – Advanced Threat Protection for macOS  
+# Malwarebytes Premium – Advanced Threat Protection
 
 <div align="center">  
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Malwarebytes_Logo_Symbol.png" width="250"/>  
